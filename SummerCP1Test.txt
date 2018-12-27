@@ -1,0 +1,77 @@
+1)
+//-----\\\\\n|\"'cp1'\"|\n\\\\-----//
+
+2)
+double
+
+3)
+input
+
+4)
+"Favorite desserts: "+input+" \n I calculate that you like 3 dessert (s).
+
+5)
+2.8186
+
+6)
+2190
+
+7)
+== test simple input, .equals() should be used for more complex input types
+
+8)
+a<28
+
+9)a=-2; a+6;
+
+10)
+public static getLuckyNumber()
+{
+	int num=0;
+	num=((int)(17*Math.random())+1);
+	return num;
+}
+
+11)
+ArrayList<>
+
+12)
+substring(0,16)+("sophisticated!")
+
+13)
+skip
+
+14)
+skip
+
+15)
+int cubes[]=new int[16];
+for(int i=1;i<=15;i++)
+{
+	cubes[i]=(i*i*i);
+}
+
+16)
+int sum=0;
+for(int i=0;i<cubes.lenth();i++
+{
+	sum+=cubes[i]
+}
+int avg=sum/15;
+
+17)
+int num=0;
+num=input.lastIndexOf(" ");
+System.out.println("The last number is"+input.substring(num)".");
+
+18)
+public class circle
+{
+    int diameter;
+}
+public static circumference()
+{
+   Circle c=new Circle(2.5);
+double circumference=c.diameter*3.14;
+System.out.println("Circumference: "+circumference);
+}
